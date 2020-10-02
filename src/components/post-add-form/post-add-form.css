@@ -1,0 +1,16 @@
+.bottom-panel {
+  margin-top: 1rem;
+}
+
+.bottom-pannel .new-post-label {
+  min-height: 50px;
+  width: auto;
+  flex-grow: 1;
+  margin-right: 3px;
+  background-color: rgba(0,0,0, 0.2);
+  color: #ffffff;
+}
+
+.error {
+  border: 1px solid red;
+}
